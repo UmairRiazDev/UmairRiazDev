@@ -1,4 +1,4 @@
-<h1 align="center">Hi ??, I'm Umair</h1>
+<h1 align="center">Hi 👋, I'm Umair</h1>
 
 
 <p align="center"><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairriazdev&" alt="umairriazdev" /></a></p>
