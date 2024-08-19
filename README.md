@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
 
 
-<p align="center"><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairriazdev&" alt="umairriazdev" /></a></p>
+<p align="center"><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairriazdev&theme=dracula" alt="umairriazdev" /></a></p>
 
-<p align="center">&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=umairriazdev&show_icons=true&locale=en" alt="umairriazdev" /></a></p>
+<p align="center">&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=umairriazdev&show_icons=true&locale=en&theme=dracula" alt="umairriazdev" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
