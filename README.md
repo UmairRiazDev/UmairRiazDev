@@ -12,7 +12,6 @@
 <p align="center"> 
 <a href="#--current-tech-stack"><img src="./imgs/html5.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#--current-tech-stack"><img src="./imgs/css3.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="#--current-tech-stack"><img src="./imgs/javascript.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="#--current-tech-stack"><img src="./imgs/shell_script.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="#--current-tech-stack"><img src="./imgs/linux.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a href="#--current-tech-stack"><img src="./imgs/wordpress.svg?style=for-the-badge&logo=WordPress&logoColor=white"/></a>
@@ -26,6 +25,7 @@
 
 <p align="center"> 💻 In Progress:</p>
 <p align="center">
+<a href="#--current-tech-stack"><img src="./imgs/javascript.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="#--current-tech-stack"><img src="./imgs/nodejs.svg?style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="#--current-tech-stack"><img src="./imgs/react.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
 </p>
