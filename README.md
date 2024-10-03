@@ -3,9 +3,9 @@
 ### <p align="center"> 📊 GitHub Stats:</p>
 <p align="center"> 
 <!-- <a href="#--github-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=umairriazdev&theme=dark&hide_border=false"/> </a><br/>
-<a href="#--github-stats"><img src="https://github-readme-stats.vercel.app/api?username=umairriazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/> </a><br/> -->
+<a href="#--github-stats"><img src="https://github-readme-stats.vercel.app/api?username=umairriazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/> </a><br/>
 <a href="#--github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairriazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </a>
-</p>
+</p> -->
 
 #
 ### <p align="center"> 💻 Current Tech Stack:</p>
