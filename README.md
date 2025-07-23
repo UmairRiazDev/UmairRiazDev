@@ -3,33 +3,33 @@
 #
 ### <p align="center" id="current-tech-stack"> 💻 Current Tech Stack:</p>
 <p align="center"> 
-<a href="#current-tech-stack"><img src="./imgs/linux.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/python.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/git.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/github.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/html.png" width="64px" height="64px"/></a><br>
-<a href="#current-tech-stack"><img src="./imgs/css.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/wordpress.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/netlify.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/power-bi.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/sql.png" width="64px" height="64px"/></a><br>
-<a href="#current-tech-stack"><img src="./imgs/numpy.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/pandas.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/excel.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/bash.png" width="64px" height="64px"/></a>
-<a href="#current-tech-stack"><img src="./imgs/markdown.png" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/linux.png" alt="Linux" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/python.png" alt="Python" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/git.png" alt="Git" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/github.png" alt="GitHub" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/html.png" alt="HTML" width="64px" height="64px"/></a><br>
+<a href="#current-tech-stack"><img src="./imgs/css.png" alt="CSS" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/wordpress.png" alt="Wordpress" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/netlify.png" alt="Netlify" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/power-bi.png" alt="Power-Bi" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/sql.png" alt="SQL" width="64px" height="64px"/></a><br>
+<a href="#current-tech-stack"><img src="./imgs/numpy.png" alt="NumPy" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/pandas.png" alt="Pandas" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/excel.png" alt="Excel" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/bash.png" alt="Bash" width="64px" height="64px"/></a>
+<a href="#current-tech-stack"><img src="./imgs/markdown.png" alt="Markdown" width="64px" height="64px"/></a>
 </p>
 
 #
 <p align="center" id="exploring"> 💻 Exploring:</p>
 <p align="center"> 
-<a href="#exploring"><img src="./imgs/pytorch.png" width="64px" height="64px"/></a>
-<a href="#exploring"><img src="./imgs/scikit-learn.png" width="64px" height="64px"/></a>
-<a href="#exploring"><img src="./imgs/tensorflow.png" width="64px" height="64px"/></a>
-<a href="#exploring"><img src="./imgs/mlflow.png" width="64px" height="23px"/></a><br>
-<a href="#exploring"><img src="./imgs/matplotlib.png" width="48px" height="48px"/></a>
-<a href="#exploring"><img src="./imgs/keras.png" width="48px" height="48px"/></a>
-<a href="#exploring"><img src="./imgs/plotly.png" width="48px" height="48px"/></a>
+<a href="#exploring"><img src="./imgs/pytorch.png" alt="PyTorch" width="64px" height="64px"/></a>
+<a href="#exploring"><img src="./imgs/scikit-learn.png" alt="Scikit-Learn" width="64px" height="64px"/></a>
+<a href="#exploring"><img src="./imgs/tensorflow.png" alt="TensorFlow" width="64px" height="64px"/></a>
+<a href="#exploring"><img src="./imgs/mlflow.png" alt="MlFlow" width="64px" height="23px"/></a><br>
+<a href="#exploring"><img src="./imgs/matplotlib.png" alt="Matplotlib" width="48px" height="48px"/></a>
+<a href="#exploring"><img src="./imgs/keras.png" alt="Keras" width="48px" height="48px"/></a>
+<a href="#exploring"><img src="./imgs/plotly.png" alt="Plotly" width="48px" height="48px"/></a>
 </p>
 
 
